@@ -1,4 +1,6 @@
 {
 	"port": 8000,
-	"deviceId": "28-000004e23e98"
+	"deviceId": "28-000004e23e98",
+	"synergyKitKey": "your-app-key-here",
+	"synergyKitAppUrl": "your-app-tenant-here"
 }
